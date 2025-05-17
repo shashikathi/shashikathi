@@ -34,5 +34,6 @@ Final-year BTech CSE (Hons) student specializing in Data Science & Engineering. 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashikathi&show_icons=true&theme=radical)
 
 ## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/shashikathi"}
+{"linkedin":"https://www.linkedin.com/in/shashikathi",
+"generic":"https://kshashi-preetham-5tbnyvy.gamma.site/",
+"instagram":"https://www.instagram.com/____shashikathi____/"}
