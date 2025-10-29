@@ -32,10 +32,15 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,mysql,postgresql,tableau,powerbi,streamlit,figma,linux" height="55"/>
+  <img src="https://skillicons.dev/icons?i=python,git,github,mysql,postgresql,tableau,powerbi,streamlit,linux" height="55"/>
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=sklearn,pandas,numpy,r,googlecloud" height="55"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white">
 </p>
 
 ---
@@ -53,10 +58,10 @@
 > 🚀 Deployed on [Hugging Face Spaces](https://huggingface.co/spaces/shashikathi56/customer-churn-predictor)  
 
 ### 🔹 [Wine Quality Prediction (Machine Learning)](https://github.com/shashikathi/Wine-Quality-Prediction)
-> Developed a predictive model to classify **wine quality** using physicochemical data  
-> 🧪 Applied **Random Forest and Logistic Regression**, achieving strong accuracy on test data  
-> 📊 Conducted **data cleaning, EDA, and feature engineering** to identify key quality factors  
-> 🚀 Visualized relationships between acidity, alcohol, and quality using **Matplotlib & Seaborn**
+> Built a supervised ML model to predict wine quality using physicochemical data  
+> 🧠 Trained **Random Forest** and **XGBoost** models for regression and classification tasks  
+> 📊 Conducted data cleaning, EDA, and feature importance analysis with **Pandas, Seaborn, Matplotlib**  
+> ⚙️ Delivered interactive visualizations to explain model insights and patterns  
 
 ---
 
@@ -94,4 +99,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+connect+and+build+something+data-driven+⚡" alt="Footer Typing"/>
 </p>
-
