@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/shashikathi"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://github.com/shashikathi"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>&nbsp;
-  <a href="https://infopreetham.netlify.app"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6366f1?style=flat-square&logo=googlechrome&logoColor=white"/></a>&nbsp;
+  <a href="https://[(https://shashikathi.netlify.app/)](https://shashikathi.netlify.app/)"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-6366f1?style=flat-square&logo=googlechrome&logoColor=white"/></a>&nbsp;
   <a href="mailto:shashikathi56@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
