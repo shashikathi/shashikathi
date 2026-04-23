@@ -25,9 +25,9 @@
 ## 🚀 About Me
 
 - 🎓 **B.Tech (Hons.) Data Science & Data Engineering** — Lovely Professional University  
-- 💼 **Experience:**  
-  - Data Science Intern @ TransOrg Analytics  
-  - Business Analyst @ Movidu Technologies  
+- 💼 **Experience:**
+  - Operations  Associate  Bhanzu
+  - Data Science Intern @ TransOrg Analytics    
 - 📊 I build **ETL pipelines, analytics systems, BI dashboards, and ML models**  
 - ⚡ Focused on **real-world impact + deployable ML systems**  
 - 🧠 Currently exploring **MLOps & Generative AI for analytics automation**
